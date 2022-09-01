@@ -1,0 +1,7 @@
+LICENSE
+pyproject.toml
+src/chord/__init__.py
+src/chord.py.egg-info/PKG-INFO
+src/chord.py.egg-info/SOURCES.txt
+src/chord.py.egg-info/dependency_links.txt
+src/chord.py.egg-info/top_level.txt
